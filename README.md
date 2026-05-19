@@ -7,5 +7,5 @@ A considerable amount of my time is spent doing community work on things that I 
 Strong Languages: Python, SQL, Scala, and c++
 
 -   Ask me about Data Engineering,Analytics Engineering
-- 📫 How to reach me +254798757983   /  peterngotho24@gmail.com
+-    Reach me +254798757983   /  peterngotho24@gmail.com
 
